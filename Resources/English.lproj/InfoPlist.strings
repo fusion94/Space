@@ -1,0 +1,3 @@
+CFBundleShortVersionString = "Space version 0.8";
+CFBundleGetInfoString = "Space version 0.8, by Riley Lynch <riley@codeclever.com>";
+NSHumanReadableCopyright = "Copyright Riley Lynch, June 2002, distributable under the QPL 1.0";

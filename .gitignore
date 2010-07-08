@@ -1,0 +1,7 @@
+# Old School
+.svn
+.htaccess
+
+# OS X Noise
+.DS_Store
+profile
