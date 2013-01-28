@@ -1,7 +1,5 @@
-********************************************************************************
-* Please Note									   
-* The current code in Master will build but will NOT run properly.
-********************************************************************************
+
+```Please Note The current code in Master will build but will NOT run properly.```
 
 Space.app: virtual workspaces for Mac OS X
 ==========================================
