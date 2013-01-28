@@ -5,3 +5,4 @@
 # OS X Noise
 .DS_Store
 profile
+build/*
